@@ -3,14 +3,14 @@ import Image from 'next/image';
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[#0a0a0a] text-white bg-[url('/gym-texture.png')] bg-repeat">
+    <main className="min-h-screen bg-gradient-to-b from-[#0a0a0a] via-black to-[#0a0a0a] text-white">
       {/* Hero Section */}
       <section className="relative min-h-screen flex flex-col items-center justify-center text-center px-4 py-20">
-        <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/70 to-[#0a0a0a] z-10" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-yellow-900/20 via-black/40 to-black/80 z-10" />
         <div className="relative z-20 space-y-12 max-w-4xl mx-auto">
           <div className="w-48 h-48 mx-auto rounded-full overflow-hidden border-8 border-yellow-600/30 shadow-2xl shadow-yellow-600/20">
             <Image
-              src="/perfil.jpeg"
+              src="https://via.placeholder.com/192x192/18181C/666666?text=Bruxo"
               alt="Bruxo Consultoria"
               width={192}
               height={192}
@@ -80,7 +80,7 @@ export default function Home() {
 
       {/* Services Section */}
       <section className="py-20 relative">
-        <div className="absolute inset-0 bg-[url('/gym-pattern.png')] opacity-5"></div>
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-yellow-900/10 via-black/60 to-black/80"></div>
         <div className="max-w-4xl mx-auto px-4 relative">
           <h2 className="text-4xl md:text-5xl font-[impact] text-center mb-16 text-yellow-500 tracking-wider">
             NOSSOS SERVIÇOS
