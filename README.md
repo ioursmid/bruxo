@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏋️‍♂️ Bruxo Consultoria - Landing Page
 
-## Getting Started
+Landing page profissional para a Bruxo Consultoria, especializada em treinamento físico e consultoria fitness.
 
-First, run the development server:
+## 🌟 Características
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Design moderno e responsivo
+- Otimizado para SEO
+- Interface oldschool de academia
+- Integração com redes sociais
+- Links diretos para WhatsApp
+- Seção de serviços detalhada
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tecnologias Utilizadas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- Lucide Icons
+- React
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📱 Redes Sociais
 
-## Learn More
+- [YouTube](https://www.youtube.com/@leonardo_bruxo)
+- [Instagram Principal](https://www.instagram.com/b.r.u.x.o.leo/)
+- [TikTok](https://www.tiktok.com/@b_r_u_x_o1)
+- [Loja Moda Surf](https://www.instagram.com/moda.surfbnu/)
 
-To learn more about Next.js, take a look at the following resources:
+## 🏆 Conquistas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Campeão Brasileiro
+- Campeão Sul Americano - WFF
+- Mais de 3.000 alunos atendidos
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 💪 Serviços
 
-## Deploy on Vercel
+- Consultoria Online
+- Personal Training
+- Avaliação Física
+- Planos Nutricionais
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📞 Contato
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Para consultoria e informações:
+- WhatsApp: [+55 47 99129-4984](https://api.whatsapp.com/send?phone=5547991294984&text=Olá,%20vim%20do%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20a%20consultoria)
+
+## 🛠️ Desenvolvimento
+
+Desenvolvido por [DGSolution](https://instagram.com/douuglinha95)
+
+## 📄 Licença
+
+© 2024 Bruxo Consultoria. Todos os direitos reservados.
