@@ -10,7 +10,7 @@ export default function Home() {
         <div className="relative z-20 space-y-12 max-w-4xl mx-auto">
           <div className="w-48 h-48 mx-auto rounded-full overflow-hidden border-8 border-yellow-600/30 shadow-2xl shadow-yellow-600/20">
             <Image
-              src="https://via.placeholder.com/192x192/18181C/666666?text=Bruxo"
+              src="/bruxo/perfil.jpeg"
               alt="Bruxo Consultoria"
               width={192}
               height={192}
